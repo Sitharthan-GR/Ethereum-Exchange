@@ -43,11 +43,13 @@ git clone https://github.com/Sitharthan‑GR/Ethereum‑Exchange.git
 cd Ethereum‑Exchange
 ```
 # Install dependencies
-``` npm install```
+``` npm install
+```
 
 ### Compile & Deploy
 Start Ganache:
-```ganache-cli ```
+```ganache-cli 
+```
 ### Compile contracts:
 
 ```
